@@ -1,8 +1,8 @@
-<img src="ims/banner.png" alt="Banner Image" style="width: 100%; height: auto;" />
+<img src="imgs/banner.png" alt="Banner Image" style="width: 100%; height: auto;" />
 
 # <br>Predictive modeling & machine learning
-- [**Predictive Modeling with scikit-learn**]
-- [**Exercise: predicting house prices**]
+- [**Predictive Modeling with scikit-learn**](https://github.com/musa-550-fall-2024/predictiveModeling/blob/main/predictiveModeling.ipynb)
+- [**Exercise: predicting house prices**](https://github.com/musa-550-fall-2024/predictiveModeling/blob/main/exercise.ipynb)
 
 
 
