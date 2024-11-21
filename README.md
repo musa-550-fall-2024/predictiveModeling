@@ -1,4 +1,4 @@
-<img src="images/banner.png" alt="Banner Image" style="width: 100%; height: auto;" />
+<img src="ims/banner.png" alt="Banner Image" style="width: 100%; height: auto;" />
 
 # <br>Predictive modeling & machine learning
 - [**Predictive Modeling with scikit-learn**]
